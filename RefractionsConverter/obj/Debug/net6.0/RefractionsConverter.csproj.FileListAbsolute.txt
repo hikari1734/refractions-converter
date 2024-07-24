@@ -1,0 +1,15 @@
+c:\Users\Marissa\c#\RefractionsConverter\bin\Debug\net6.0\RefractionsConverter.exe
+c:\Users\Marissa\c#\RefractionsConverter\bin\Debug\net6.0\RefractionsConverter.deps.json
+c:\Users\Marissa\c#\RefractionsConverter\bin\Debug\net6.0\RefractionsConverter.runtimeconfig.json
+c:\Users\Marissa\c#\RefractionsConverter\bin\Debug\net6.0\RefractionsConverter.dll
+c:\Users\Marissa\c#\RefractionsConverter\bin\Debug\net6.0\RefractionsConverter.pdb
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.csproj.AssemblyReference.cache
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.AssemblyInfoInputs.cache
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.AssemblyInfo.cs
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.csproj.CoreCompileInputs.cache
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.dll
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\refint\RefractionsConverter.dll
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.pdb
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\RefractionsConverter.genruntimeconfig.cache
+c:\Users\Marissa\c#\RefractionsConverter\obj\Debug\net6.0\ref\RefractionsConverter.dll

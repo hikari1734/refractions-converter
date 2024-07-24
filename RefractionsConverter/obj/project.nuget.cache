@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJxWf5ihPuxGZsQBthrvPVj7H665h7Y2dfW14GcfFLrTyIaOna5b+GnRelJp48XKME4SOMprUcfgZCLQ0kbN+g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Marissa\\c#\\RefractionsConverter\\RefractionsConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.7\\microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

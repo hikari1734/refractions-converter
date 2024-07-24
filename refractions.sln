@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefractionsConverter", "RefractionsConverter\RefractionsConverter.csproj", "{D9059AF5-F0AC-4963-B228-90AAA9C128FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefractionsConverterTests", "RefractionsConverterTests\RefractionsConverterTests.csproj", "{BB078E51-950F-40C1-A21D-991B1CC0B00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9059AF5-F0AC-4963-B228-90AAA9C128FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9059AF5-F0AC-4963-B228-90AAA9C128FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9059AF5-F0AC-4963-B228-90AAA9C128FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9059AF5-F0AC-4963-B228-90AAA9C128FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB078E51-950F-40C1-A21D-991B1CC0B00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB078E51-950F-40C1-A21D-991B1CC0B00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB078E51-950F-40C1-A21D-991B1CC0B00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB078E51-950F-40C1-A21D-991B1CC0B00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
